@@ -5,7 +5,7 @@
 
 👯 I’m looking for exciting internship opportunities in AI/ML and Web Development.
 
-📫 You can reach me on [LinkedIn] (www.linkedin.com/in/charwak-dongre-b5926b264)
+🤝 Find me @charwak-dongre on LinkedIn.
 
 <h3 align="left">Web Development & Tech Stack:</h3>
 <p align="left">
